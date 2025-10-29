@@ -7,7 +7,7 @@ from aiogram.types import (
 )
 
 TOKEN = "7636666169:AAGv_yAKdQOGh5ZQzRBJDgVTYE4T5u0dN1U"
-ADMIN_ID = 1767628555
+ADMIN_ID = 1048803501
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
